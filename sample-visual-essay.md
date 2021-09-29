@@ -25,10 +25,10 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 _Halloween_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="American Holiday" 
+       description="Holiday that takes place in October 31st" 
        license="public domain" 
-       url=https://www.hdwallpapers.in/download/halloween_2_4k_5k_hd-HD.jpg
+       url=https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/09/02/17/istock-1175106211.jpg
 
 ## Map
 
