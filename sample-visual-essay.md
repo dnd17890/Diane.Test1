@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Candy Corn" 
+       title="Engelbert Kaempfer" 
        banner=https://townsquare.media/site/158/files/2013/10/candycorn-credit-istock-1626740574.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89
        layout="vertical">
 
@@ -17,7 +17,7 @@
 
 Candy corn is usally given out during Halloween. This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://www.wikidata.org/wiki/Q58042#/media/File:Engelbert_Kaempfer.jpg">
 
 # Basic usage
 
