@@ -16,6 +16,11 @@
 # Engerlbert Kaempfer
 
 Kaempfer was a German scholar who spent much time traveling in various parts of the world. Kaempfer’s early studies in medicine and natural science were in Prussia, preparing him to learn about different medical practices across the world. Each country Kaempfer visited was spent learning about the culture, language, and medicine. After some time, Kaempfer did not wish to return home but instead joined the Dutch East India Company as a Physician. The organization's duties were to trade, explore, and colonize in the 17th and 18th centuries. The company had traveled into Nagaski, Japan, in 1690 and was given the post in Deshima.  Kaempfer, along with other surgeons and medical practitioners, were able to treat patients from around their post. They were also given passes to travel into the mainland and to study plants.  During this time, feudal Japan’s Shogun, Yoshimune,  had closed its borders off from outsiders for about 200 years. However, the military leader allowed for only the Dutch to stay and study the country. Kaempfer saw themselves more as prisoners rather than visitors.[^2]
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Image
 <param ve-image
