@@ -48,7 +48,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 
 Mass production of Candy Corn is placed during October = The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://www.snopes.com/tachyon/2019/10/GettyImages-688976229-e1570645855298.jpg?fit=1200,800">
 <param ve-map center="Q36600" zoom="11">
 
 # References
