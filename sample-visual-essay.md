@@ -2,7 +2,9 @@
 
 <param ve-config 
        title="Engelbert Kaempfer" 
+       author="Diane Diaz"
        banner=https://upload.wikimedia.org/wikipedia/commons/4/48/Engelbert_Kaempfer_cartouche.jpg
+url=https://upload.wikimedia.org/wikipedia/commons/4/48/Engelbert_Kaempfer_cartouche.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
