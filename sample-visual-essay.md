@@ -21,12 +21,14 @@ Engel Kaempfer was a German Scholar who spent much time traveling in various par
        description="Kaempfer drawing a map of Japan"
        license="public domain" 
        url=https://upload.wikimedia.org/wikipedia/commons/4/48/Engelbert_Kaempfer_cartouche.jpg
+       
   Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
        manifest="https://www.wikidata.org/wiki/Q58042#/media/File:Engelbert_Kaempfer.jpg">
 
 # Moxa
-
+<param ve-image 
+       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 ## Image
 
 _Halloween_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
