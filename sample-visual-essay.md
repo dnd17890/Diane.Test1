@@ -16,7 +16,7 @@ Kaempfer was a German scholar who spent much time traveling in various parts of 
        label="Engelbert Kaempfer" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://en.wikipedia.org/wiki/Engelbert_Kaempfer#/media/File:Engelbert_Kaempfer_cartouche.jpg">
+       url="https://www.bloggang.com/data/s/slight06/picture/1335528820.jpg">
 
 # Acupunture
 Engelbert Kaempfer spent much of his time exploring the various medicines available in Feudal Japan. One of the few medicines Kaempfer encountered was acupuncture, also known as needle-pricking. The origins of acupuncture come from China and were slowly brought into Japan. This form of medicine was the use of long and thin needles, often made of gold and silver, which were inserted into specific points on the body. The needles are applied by the use of a brass pipe that is “one third of an inch shorter.” Those handlers of the needles are referred to as Faritatte (needle prickers). These needles were meant to cure illnesses and bring pain relief to the patient. The source of pain is air that is trapped in one single space. The needle helps release this confined air. Every patient calls for different positioning of the needles. There are several rules and terms in accordance with each placement, method, and needle. The making and teachings of these needs is its own professional art. This field of medicine requires trained and committed physicians.
