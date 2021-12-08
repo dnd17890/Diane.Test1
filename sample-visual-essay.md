@@ -37,7 +37,7 @@ _Halloween_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age 
        label="American Holiday" 
        description="Holiday that takes place in October 31st" 
        license="public domain" 
-       url=https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/09/02/17/istock-1175106211.jpg
+       url=https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/09/02/17/istock-1175106211.jpg>
 
 ## Map
 
