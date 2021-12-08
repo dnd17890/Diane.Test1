@@ -15,13 +15,19 @@ url=https://upload.wikimedia.org/wikipedia/commons/4/48/Engelbert_Kaempfer_carto
 
 Kaempfer was a German scholar who spent much time traveling in various parts of the world. Kaempfer’s early studies in medicine and natural science were in Prussia, preparing him to learn about different medical practices across the world. Each country Kaempfer visited was spent learning about the culture, language, and medicine. After some time, Kaempfer did not wish to return home but instead joined the Dutch East India Company as a Physician. The organization's duties were to trade, explore, and colonize in the 17th and 18th centuries. The company had traveled into Nagaski, Japan, in 1690 and was given the post in Deshima.  Kaempfer, along with other surgeons and medical practitioners, were able to treat patients from around their post. They were also given passes to travel into the mainland and to study plants.  During this time, feudal Japan’s Shogun, Yoshimune,  had closed its borders off from outsiders for about 200 years. However, the military leader allowed for only the Dutch to stay and study the country. Kaempfer saw themselves more as prisoners rather than visitors.[^2]
 <param ve-image 
-       label="Engelbert Kaempfer" 
-       description="painting by Kaempfer himself" 
-       license="public domain"
-       url=https://upload.wikimedia.org/wikipedia/commons/9/96/Engelbert-Kaempfer-and-Imamura-Eisei.jpg>
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+
 
 # Acupunture
 Engelbert Kaempfer spent much of his time exploring the various medicines available in Feudal Japan. One of the few medicines Kaempfer encountered was acupuncture, also known as needle-pricking. The origins of acupuncture come from China and were slowly brought into Japan. This form of medicine was the use of long and thin needles, often made of gold and silver, which were inserted into specific points on the body. The needles are applied by the use of a brass pipe that is “one third of an inch shorter.” Those handlers of the needles are referred to as Faritatte (needle prickers). These needles were meant to cure illnesses and bring pain relief to the patient. The source of pain is air that is trapped in one single space. The needle helps release this confined air. Every patient calls for different positioning of the needles. There are several rules and terms in accordance with each placement, method, and needle. The making and teachings of these needs is its own professional art. This field of medicine requires trained and committed physicians.
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Engelbert-Kaempfer-kudabari-1727.jpg/255px-Engelbert-Kaempfer-kudabari-1727.jpg>
 # Moxa
 An alternative or second step to acupuncture is the burning of Moxa on the surface of the body. Moxa is a type of caustic used by Japanese and Chinese physicians to cure and prevent illnesses. Caustic is the burning of mashed materials together and applied to the skin. Similar to acupuncture, small cones of Moxa are placed on specific areas of pain and are then lit at the very end. The fire is very small as it burns the paste very slowly. It does not cause any serious injury, only a miniscule pich is felt as the fire reaches the end. Many of the recipes used to make the paste are kept so secretive that Kaempfer himself did not know what was in them. 
 
