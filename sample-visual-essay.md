@@ -21,7 +21,7 @@ Engelbert Kaempfer spent much of his time exploring the various medicines availa
 Keampfer's drawing of the needles as well as the box they are stored in.
 
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Engelbert-Kaempfer-kudabari-1727.jp/255px-Engelbert-Kaempfer-kudabari-1727.jpg">
+       manifest=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Engelbert-Kaempfer-kudabari-1727.jp/255px-Engelbert-Kaempfer-kudabari-1727.jpg>
       
 
 # Moxa
@@ -33,12 +33,12 @@ Moxa in particular is dried leaves from _Artemisia vulgaris latifolia_, otherwis
        label="Artemisia vulgaris latifolia"
        description="Plant used to make Moxa"
        license"public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/59/Artemia_vulgaris_leaf.jpg">
+       url=https://upload.wikimedia.org/wikipedia/commons/5/59/Artemia_vulgaris_leaf.jpg>
 
 
 # Rangaku Scholars
 
-To allow the Dutch East India Company in Japan, they were given rules and restrictions that they must follow at all times. One of these restrictions was for the Dutch not to learn the Japanese language. To go about in Japan and learn of their medicine, they were assigned interpreters to help out.  Besides being utilized as spies for the Shogun, the interpreters were interested in learning about Dutch surgery. They had advanced Oriental medicine and any other medicine would make very little impact. They were taught how to read and speak the Dutch’s language. This began the rise of _rangaku_ scholars. They were Japanese scholars who mastered Dutch medicine and language.These masteries of Dutch language resulted in the formation of a group of _rangaku_ academics, who studied the Dutch language in depth and with Dutch physicians as the teachers. This emergence of new scholars had much to do with the seclusion of the outside world. Japanese physicians and interpreters were growing increasingly fascinated by the Dutch. Previously, _rangakusha_ (physicians, scholars, and translators who specialized in _rangaku_), would purchase copies or loan out dictionaries to translate the text. 
+To allow the Dutch East India Company in Japan, they were given rules and restrictions that they must follow at all times. One of these restrictions was for the Dutch not to learn the Japanese language. To go about in Japan and learn of their medicine, they were assigned interpreters to help out.  Besides being utilized as spies for the Shogun, the interpreters were interested in learning about Dutch surgery. They had advanced Oriental medicine and any other medicine would make very little impact. They were taught how to read and speak the Dutch’s language. This began the rise of _rangaku_ scholars. They were Japanese scholars who mastered Dutch medicine and language.These masteries of Dutch language resulted in the formation of a group of _rangaku_ academics, who studied the Dutch language in depth and with Dutch physicians as the teachers. This emergence of new scholars had much to do with the seclusion of the outside world. Japanese physicians and interpreters were growing increasingly fascinated by the Dutch. Previously, _rangakusha_ (physicians, scholars, and translators who specialized in _rangaku_), would purchase copies or loan out dictionaries to translate the text. [^1]
 
 They were able to master the study of _komo-ryu geka_ (Dutch surgery) and earn a certification as a surgeon. The practice of Dutch surgery opened a new door in the medicine field. here was a language barrier that prevented most interpreters and physicians from learning Dutch Surgery in greater detail. Despite the Shogunate Yoshimune slackening regulations in 1720, which allowed for heavy importation of Chinese books, it did not help the language barrier. It was not until 1774, when physician Sugita Genpaku first published _Kaitai Shinsho_ (New Anatomy Book). The purpose of Genpaku translating an entire Dutch medical book was to allow an easier understanding of Dutch surgery. 
   
