@@ -21,7 +21,7 @@ Engelbert Kaempfer spent much of his time exploring the various medicines availa
 Keampfer's drawing of the needles as well as the box they are stored in.
 
 <param ve-image 
-       manifest=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Engelbert-Kaempfer-kudabari-1727.jp/255px-Engelbert-Kaempfer-kudabari-1727.jpg>
+manifest=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Engelbert-Kaempfer-kudabari-1727.jp/255px-Engelbert-Kaempfer-kudabari-1727.jpg>
       
 
 # Moxa
@@ -33,7 +33,7 @@ Moxa in particular is dried leaves from _Artemisia vulgaris latifolia_, otherwis
        label="Artemisia vulgaris latifolia"
        description="Plant used to make Moxa"
        license"public domain"
-       url=https://upload.wikimedia.org/wikipedia/commons/5/59/Artemia_vulgaris_leaf.jpg>
+url=https://upload.wikimedia.org/wikipedia/commons/5/59/Artemia_vulgaris_leaf.jpg>
 
 
 # Rangaku Scholars
