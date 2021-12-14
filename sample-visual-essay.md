@@ -11,20 +11,17 @@ url=https://upload.wikimedia.org/wikipedia/commons/4/48/Engelbert_Kaempfer_carto
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
-# Engerlbert Kaempfer
+###Engerlbert Kaempfer
 
 Kaempfer was a German scholar who spent much time traveling in various parts of the world. Kaempfer’s early studies in medicine and natural science were in Prussia, preparing him to learn about different medical practices across the world. Each country Kaempfer visited was spent learning about the culture, language, and medicine. After some time, Kaempfer did not wish to return home but instead joined the Dutch East India Company as a Physician. The organization's duties were to trade, explore, and colonize in the 17th and 18th centuries. The company had traveled into Nagaski, Japan, in 1690 and was given the post in Deshima.  Kaempfer, along with other surgeons and medical practitioners, were able to treat patients from around their post. They were also given passes to travel into the mainland and to study plants.  During this time, feudal Japan’s Shogun, Yoshimune,  had closed its borders off from outsiders for about 200 years. However, the military leader allowed for only the Dutch to stay and study the country. Kaempfer saw themselves more as prisoners rather than visitors.[^2]
 
 
-# Acupunture
+###Acupunture
 Engelbert Kaempfer spent much of his time exploring the various medicines available in Feudal Japan. One of the few medicines Kaempfer encountered was acupuncture, also known as needle-pricking. The origins of acupuncture come from China and were slowly brought into Japan. This form of medicine was the use of long and thin needles, often made of gold and silver, which were inserted into specific points on the body. The needles are applied by the use of a brass pipe that is “one third of an inch shorter.” Those handlers of the needles are referred to as Faritatte (needle prickers). These needles were meant to cure illnesses and bring pain relief to the patient. The source of pain is air that is trapped in one single space. The needle helps release this confined air. Every patient calls for different positioning of the needles. There are several rules and terms in accordance with each placement, method, and needle. The making and teachings of these needs is its own professional art. This field of medicine requires trained and committed physicians.
 Keampfer's drawing of the needles as well as the box they are stored in.
-
-<param ve-image 
-       manifest=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Engelbert-Kaempfer-kudabari-1727.jp/255px-Engelbert-Kaempfer-kudabari-1727.jpg>
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Engelbert-Kaempfer-kudabari-1727.jp/255px-Engelbert-Kaempfer-kudabari-1727.jpg">
       
-
-# Moxa
+###Moxa
 An alternative or second step to acupuncture is the burning of Moxa on the surface of the body. Moxa is a type of caustic used by Japanese and Chinese physicians to cure and prevent illnesses. Caustic is the burning of mashed materials together and applied to the skin. Similar to acupuncture, small cones of Moxa are placed on specific areas of pain and are then lit at the very end. The fire is very small as it burns the paste very slowly. It does not cause any serious injury, only a miniscule pich is felt as the fire reaches the end. Many of the recipes used to make the paste are kept so secretive that Kaempfer himself did not know what was in them. 
 
 Moxa in particular is dried leaves from _Artemisia vulgaris latifolia_, otherwise known as mugwort. This plant is grown in abundance and it’s leaves harvested in Europe. The seeds of this plant were brought back into Japan through trading. Kaempfer points out that Japanese astrologers suggest that the leaves must be harvested on specific days because the heavens and stars add greater influence on it’s healing properties. On every fifth month of the first five days, it is dedicated for the people and surgeons to harvest the leaves. That morning in Japan that is filled with the Stars and Heaven’s power is called, gonguatz goniz. Once the leaves are harvested and set out to dry, they are then crushed with a wooden pestle. It is followed by taking the crushed leaves between both hands and rubbing it together until it is no longer rough. This substance is then clumped together in small mounds. However, this also depends on how deep the distemper lies within the body. It can also depend on how much the pain intensity is.  
