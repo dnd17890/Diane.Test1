@@ -42,9 +42,8 @@ They were able to master the study of _komo-ryu geka_ (Dutch surgery) and earn a
        url="https://upload.wikimedia.org/wikipedia/commons/9/91/Kaitai_shinsyo01.jpg">
 
 ## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+This image is of Deshima is a former man-made port on Nagasaki. This is a historical port that was used from 17th to 19th century as a trading for the Portuguese and Dutch companies. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Nagasaki_bay_siebold.jpg">
 
 ## Multiple viewers
 
