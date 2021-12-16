@@ -36,10 +36,10 @@ To allow the Dutch East India Company in Japan, they were given rules and restri
 
 They were able to master the study of _komo-ryu geka_ (Dutch surgery) and earn a certification as a surgeon. The practice of Dutch surgery opened a new door in the medicine field. here was a language barrier that prevented most interpreters and physicians from learning Dutch Surgery in greater detail. Despite the Shogunate Yoshimune slackening regulations in 1720, which allowed for heavy importation of Chinese books, it did not help the language barrier. It was not until 1774, when physician Sugita Genpaku first published _Kaitai Shinsho_ (New Anatomy Book). The purpose of Genpaku translating an entire Dutch medical book was to allow an easier understanding of Dutch surgery. 
 <param ve-image 
-       label="American Holiday" 
-       description="Holiday that takes place in October 31st" 
+       label="Kaitai Shinsho" 
+       description="Image of Kaitai Shinsho" 
        license="public domain" 
-       url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/09/02/17/istock-1175106211.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/9/91/Kaitai_shinsyo01.jpg">
 
 ## Map
 
@@ -51,7 +51,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 Mass production of Candy Corn is placed during October = The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://www.snopes.com/tachyon/2019/10/GettyImages-688976229-e1570645855298.jpg?fit=1200,800">
-<param ve-map center="Q36600" zoom="11">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Nagasaki_bay_siebold.jpg">
 
 # References
 
