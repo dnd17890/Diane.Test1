@@ -41,7 +41,7 @@ They were able to master the study of _komo-ryu geka_ (Dutch surgery) and earn a
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/9/91/Kaitai_shinsyo01.jpg">
 
-## Map
+### Map
 This image is of Deshima is a former man-made port on Nagasaki. This is a historical port that was used from 17th to 19th century as a trading for the Portuguese and Dutch companies. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Nagasaki_bay_siebold.jpg">
 
